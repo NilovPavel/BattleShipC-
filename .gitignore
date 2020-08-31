@@ -1,0 +1,14 @@
+*.zip
+*.i
+BattleShip/.hg/*
+BattleShipRelease/*
+BattleShipDebug/*
+BattleShip/.hgignore
+ConsoleBattleShip/.hg/*
+ConsoleBattleShip/.hgignore
+ConsoleBattleShipDebug/*
+ConsoleBattleShipRelease/*
+QtBattleShip/.hg/*
+QtBattleShip/.hgignore
+QtBattleShipDebug/*
+QtBattleShipRelease/*
